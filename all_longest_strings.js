@@ -11,5 +11,6 @@ function allLongestStrings(inputArray) {
   return inputArray;
 }
 
-//to see output - not needed for CodeSignal answer
+//following is to test that solution works:
 console.log(allLongestStrings(['aaa', 'hello', 'bye', 'great', 'mud']));
+// expected outcome: ['hello', 'great']
